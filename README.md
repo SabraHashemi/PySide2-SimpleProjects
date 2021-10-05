@@ -1,4 +1,4 @@
-# PySide2-SimpleProjects
+# Pyside2-WifiScannerAppWindows
 
 Simple and Modern APP with Pyside2 and Qt-Designer
 
@@ -11,7 +11,7 @@ feel free to ask questiones.
 ![alt text](https://github.com/sabrabano0/PySide2-SimpleProjects/blob/main/wifiscannerOutput.png?raw=true)
 
 
-# PySide2-SimpleProjects
+# Pyside2-EmbedMatplotGraph
 
 Simple and Modern APP with Pyside2 and Qt-Designer
 
