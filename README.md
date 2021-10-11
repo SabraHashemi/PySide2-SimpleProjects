@@ -23,12 +23,12 @@ this App provide a graph from binary image and its white pixels
 
 
 
-# Pyside2-EmbedMatplotGraph
+# Pyside2-EmbedMatplotGraph2
 
 Simple and Modern APP with Pyside2 and Qt-Designer
 
-you need install numpy and Pyside2
+you need install numpy and Pyside2 pandas
 
-this App provide a graph from binary image and its white pixels
+this App provide a graph from binary image and its white pixels but this is for find first white pixels in every column
 
-![alt text](https://github.com/sabrabano0/PySide2-SimpleProjects/blob/main/EmbedMatplotOutput.png?raw=true)
+![alt text](https://github.com/sabrabano0/PySide2-SimpleProjects/blob/main/EmbedMatplotOutput2.png?raw=true)
